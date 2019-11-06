@@ -47,13 +47,9 @@ msgid "Address-----666----66--66-66"
 msgstr ""
 
 #: foo/templates/bar.html:187
-msgid "Address77"
+msgid "Address77777777777777777777"
 msgstr ""
 
-#: foo/templates/bar.html:188
-msgid "Address88"
-msgstr ""
-
-#: foo/templates/bar.html:190
-msgid "Address10"
+#: foo/templates/bar.html:19
+msgid "Address9"
 msgstr ""
